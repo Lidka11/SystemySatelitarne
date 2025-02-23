@@ -1,3 +1,5 @@
+Aplikacja do planowania pomiarów GNSS
+
 Aplikacja została stworzona w celu wizualizacji parametrów związanych z
 planowaniem pomiarów GNSS, takich jak elewacje satelitów, widoczność w
 zależności od czasu, skyplot oraz ślady satelitów na powierzchni Ziemi.
