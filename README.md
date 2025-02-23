@@ -1,1 +1,1 @@
-# SystemySatelitarne
+# Systemy Satelitarne
